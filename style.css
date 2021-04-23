@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+.Pictures{
+    font-size: 18px;
+    font-family: 'Zen Dots', cursive;
+    
+}
+body{
+    background-image: url(https://wallbox.ru/resize/1920x1080/wallpapers/main2/201717/art-ogni-kosmos-zvezdy-uzory-tumannost-rossyp-mercanie.jpg);
+    background-repeat: repeat;
+    background-size:contain;
+    color: white;
+}
